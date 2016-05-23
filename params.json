@@ -1,6 +1,6 @@
 {
   "name": "HELP",
   "tagline": "Herschel Extragalactic Legacy Project",
-  "body": "### Welcome.\r\nOur aim is to provide new techniques, tools and data to enable astronomers in Europe to capitalise on the surveys of the distant Universe made by the ESA mission Herschel.\r\n\r\n\r\nThis project has received funding from the European Union’s Seventh Framework Programme for research, technological development and demonstration under grant agreement no 607254.\r\n",
+  "body": "### Welcome.\r\nOur aim is to provide new techniques, tools and data to enable astronomers in Europe to capitalise on the surveys of the distant Universe made by the ESA mission Herschel.\r\n\r\nThis project has received funding from the European Union’s Seventh Framework Programme for research, technological development and demonstration under grant agreement no 607254.\r\n\r\nWe aim to provide tools & code at this URL in future as we make public data releases.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
