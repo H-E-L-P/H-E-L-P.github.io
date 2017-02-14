@@ -25,7 +25,7 @@ The workshop will run on the following days:
 - Friday 17th April 09:00 – 13:00
 
 A pdf of the current full agenda can be found here: [HELP Scientific Workshop
-2015 Schedule](assets/pdf/help-scientific-workshop-2015_schedule.pdf).
+2015 Schedule]({{site-url}}/assets/pdf/help-scientific-workshop-2015_schedule.pdf).
 
 ##### To register:
 
