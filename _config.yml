@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: HELP
-email: your-email@domain.com
+email: L.Winters@sussex.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   The Herschel Extragalactic Legacy Project (HELP)’s main objective is to
   provide a rich new data set characterising the physical properties of
