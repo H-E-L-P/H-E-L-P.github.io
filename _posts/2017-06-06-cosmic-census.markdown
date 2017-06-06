@@ -32,7 +32,11 @@ these surveys.
 
 The intention will be to have a meeting format that is conducive to discussion and practical interaction.
 
-A second announcement will go out shortly with a deadline for abstracts mid-end June.
+Please register your interest by 21st June 2017 and let us know which topics you are most interested in working on and discussing using this form:
+<https://goo.gl/forms/RssOCOp7XMhaMedn1>
+
+The deadline for abstract submissions is 21st June 2017.
+
 For further details or questions please contact  Louise Winters at <l.winters@sussex.ac.uk>
 
 Scientific Organising Committee:
