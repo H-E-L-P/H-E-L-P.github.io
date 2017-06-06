@@ -36,6 +36,6 @@ A second announcement will go out shortly with a deadline for abstracts mid-end 
 For further details or questions please contact  Louise Winters at l.winters@sussex.ac.uk
 
 Scientific Organising Committee:
-Simon Driver, Mark Lacy, Göran Pilbrat, Mara Salvato, Seb Oliver
+Simon Driver, Mark Lacy, Göran Pilbrat, Mara Salvato, Seb Oliver.
 
 
