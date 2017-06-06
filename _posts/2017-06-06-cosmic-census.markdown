@@ -6,6 +6,9 @@ title: "Cosmic Censuses: exploiting large panchromatic surveys to understand ext
 categories:
 - Meetings
 ---
+HELP Cosmic Censuses Meeting 2017
+DATES: Mon 9th Oct - Fri 13th Oct 2017
+LOCATION: University of Sussex, UK
 
 Many international observatories have been conducting surveys of the
 extragalactic sky at many wavelengths. Such surveys now cover 100s or 1000s of
@@ -27,7 +30,5 @@ these surveys.
 
 The intention will be to have a meeting format that is conducive to discussion and practical interaction.
 
-DATES: Mon 9th Oct - Fri 13th Oct 2017
 
-LOCATION: University of Sussex, UK
 
