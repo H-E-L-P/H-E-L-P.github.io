@@ -33,7 +33,7 @@ these surveys.
 The intention will be to have a meeting format that is conducive to discussion and practical interaction.
 
 A second announcement will go out shortly with a deadline for abstracts mid-end June.
-For further details or questions please contact  Louise Winters at l.winters@sussex.ac.uk
+For further details or questions please contact  Louise Winters at <l.winters@sussex.ac.uk>
 
 Scientific Organising Committee:
 Simon Driver, Mark Lacy, Göran Pilbrat, Mara Salvato, Seb Oliver.
