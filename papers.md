@@ -15,6 +15,8 @@ Here is a list of HELP related papers:
   [(Duivenvoorden et al., 2016)](https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stw1466).
 - HELP: XID+, the probabilistic de-blender for Herschel SPIRE maps
   [(Hurley et al., 2017)](https://academic.oup.com/mnras/article-lookup/doi/10.1093/mnras/stw2375).
+- De-blending deep Herschel surveys: A multi-wavelength approach
+  [(Pearson et al., 2017)](https://www.aanda.org/articles/aa/abs/2017/07/aa30105-16/aa30105-16.html).
 - Characterizing the UV-to-NIR shape of the dust attenuation curve of IR
   luminous galaxies up to z∼2
   [(Lo Faro et al., 2017)](https://academic.oup.com/mnras/article/doi/10.1093/mnras/stx1901/4044703/Characterizing-the-UV-to-NIR-shape-of-the-dust).
