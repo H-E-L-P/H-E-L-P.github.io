@@ -40,6 +40,6 @@ The deadline for abstract submissions is 21st June 2017.
 For further details or questions please contact  Louise Winters at <l.winters@sussex.ac.uk>
 
 Scientific Organising Committee:
-Simon Driver, Brent Groves, Mark Lacy, Göran Pilbratt, Mara Salvato, Seb Oliver.
+Simon Driver, Brent Groves, Mark Lacy, Göran Pilbratt, Mara Salvato, Peter Hurley, Kenneth Duncan, Seb Oliver, 
 
 
