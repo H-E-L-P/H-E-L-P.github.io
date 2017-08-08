@@ -21,7 +21,7 @@ title: People
   [University profile page](http://www.sussex.ac.uk/profiles/188689)
 - Dr. Mattia Vaccari - **Project Scientist & Data Fusion Coordinator** -
   *UWC*
-- Dr Aayush Saxena - **Radio Data Coordinator** - *Leiden*
+- Aayush Saxena - **Radio Data Coordinator** - *Leiden*
 - Dr. Eduardo Gonzalez-Solares - **Optical, NIR, & IRAC Data Coordinator** -
   *Cambridge*
 - Dr. Hervé Aussel - **24 Micron & PACS Data Coordinator** - *CEA-Saclay*
