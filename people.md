@@ -22,8 +22,8 @@ title: People
 - Dr. Mattia Vaccari - **Project Scientist & Data Fusion Coordinator** -
   *UWC*
 - Aayush Saxena - **Radio Data Coordinator** - *Leiden*
-- Dr. Eduardo Gonzalez-Solares - **Optical, NIR, & IRAC Data Coordinator** -
-  *Cambridge*
+- Dr Manda Banerji - **Optical, NIR, & IRAC Data Coordinator** -
+  *Cambridge* (Previous: Dr. Eduardo Gonzalez-Solares)
 - Dr. Hervé Aussel - **24 Micron & PACS Data Coordinator** - *CEA-Saclay*
 - Dr. Matt Smith - **Supreme Commander of Redshifts** - *Cardiff*
 - Dr. Denis Burgarella - **Data modeling coordinator** - *LAM/CNRS*
