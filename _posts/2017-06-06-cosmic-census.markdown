@@ -32,6 +32,8 @@ these surveys.
 
 The intention will be to have a meeting format that is conducive to discussion and practical interaction.
 
+DRAFT AGENDA: http://bit.ly/CC17_agenda
+
 Please register your interest by 21st June 2017 and let us know which topics you are most interested in working on and discussing using this form:
 <https://goo.gl/forms/RssOCOp7XMhaMedn1>
 
