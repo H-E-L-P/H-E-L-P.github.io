@@ -31,7 +31,6 @@ We'll share all the talks from the Cosmic Censuses 2017 meeting below.
 </td>
  </tr>
   <tr>
-   <td> </td>
   <td>Plenary 1
 </td>
    <td>AM 1A  
@@ -58,7 +57,8 @@ Review - AGN & Redshift evolution  Evanthia Hatziminaoglou
    <td>PM2  
 16:00 - 17:30*
 </td>
-
+ <td>
+ </td>
    </tr>
    <tr>
    <td>Foo</td>
