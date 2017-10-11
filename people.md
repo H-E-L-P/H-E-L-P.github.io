@@ -63,7 +63,7 @@ title: People
 
 - Simon Driver
 - David Elbaz
-- Goran Pilbrat
+- Göran Pilbratt
 - Peter Capak
 - Takashi Onaka
 - Brent Groves
