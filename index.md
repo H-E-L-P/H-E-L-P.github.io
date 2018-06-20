@@ -2,15 +2,17 @@
 layout: page
 ---
 
-Our aim is to provide new techniques, tools and data to enable astronomers in
-Europe to capitalise on the surveys of the distant Universe made by the ESA
-mission Herschel.
+The Herschel Extragalactic Legacy Project (HELP) provides techniques, tools and data to enable astronomers in Europe and globally to capitalise on the surveys of the distant Universe made by the ESA mission Herschel.
+
+The [data access]{/data_access/} page contains information about how to access and use all the data and tools.
 
 ![EU flag]({{site-url}}/assets/images/flag_yellow_low.jpg?w=300&h=200)
 
 This project has received funding from the European Union’s Seventh Framework
 Programme for research, technological development and demonstration under grant
 agreement no 607254.
+
+
 
 <div class="home">
 

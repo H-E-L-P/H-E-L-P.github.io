@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Acknowledgements
+title: Data access
 date: 20180620
-slug: acknowledgements
-permalink: /acknowledgements/
+slug: data_access
+permalink: /data_access/
 ---
 
 HELP data can be directly accessed via the following server:
