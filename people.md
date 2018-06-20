@@ -38,6 +38,7 @@ title: People
 - Matt Prescott (UWC)
 - Lucia Marchetti (UWC)
 - Dr. Veronique Buat (Marseille)
+- [Raphael Shirley](http://raphaelshirley.co.uk/) (Sussex)
 - Kasia Malek (Marseille)
 - Prof. Huub Rottgering (Leiden)
 - Dr. Ken Duncan (Leiden)
