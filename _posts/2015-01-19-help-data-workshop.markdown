@@ -11,7 +11,7 @@ categories:
 
 ##### Laboratoire d’Astrophysique de Marseille, Marseille, France
 
-##### Objective:
+##### Objective 1:
 
 To address the main data challenges for HELP, and to steer data gathering and
 data product creation throughout the duration of the project.
