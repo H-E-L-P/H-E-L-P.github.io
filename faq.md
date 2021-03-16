@@ -18,12 +18,12 @@ For example the final table for ELAIS-N1 is here:
 
 ## Can I get a table of all the Herschel fluxes?
 
-Yes this is available [here](http://hedam.lam.fr/HELP/dataproducts/dmu32/dmu32_AllSky/data/HELP_all_sky_A-list_20201111.fits). 
+Yes, this is available [here](http://hedam.lam.fr/HELP/dataproducts/dmu32/dmu32_AllSky/data/HELP_all_sky_A-list_20201111.fits). 
 That is a link to what we call the 'A-list' that includes objects with two far infrared detections, a photometric redshift and SED fitting. 
 You might also be interested in other samples. 
-Perhaps you would rather query the virtual observatory to find everything detected in [250 micron SPIRE imaging](https://herschel-vos.phys.sussex.ac.uk/__system__/adql/query/form?__nevow_form__=genForm&query=SELECT%20TOP%2010%20*%20from%20help_a_list.main%20WHERE%20f_spire_250%2Fferr_spire_250%20%3E2&_TIMEOUT=5&_FORMAT=HTML&submit=Go).
+Perhaps you would rather query the virtual observatory to find everything detected in [250 micron SPIRE imaging](https://herschel-vos.phys.sussex.ac.uk/__system__/adql/query/form?__nevow_form__=genForm&query=SELECT%20TOP%2010%20*%20from%20help_a_list.main%20WHERE%20f_spire_250%2Fferr_spire_250%20%3E2&_TIMEOUT=5&_FORMAT=HTML&submit=Go) for instance.
 
-## What is the difference betwee 'blind' photometry and the main HELP far infrared fluxes?
+## What is the difference between 'blind' photometry and the main HELP far infrared fluxes?
 
 Blind catalogues are found directly from the far infrared images without using any other information. 
 Because the Herschel maps are 'confused' these are not as deep as the main photometry whcih uses high resolution optical surveys to 'deblend' the far infrared maps and can effectively be deeper than the blind photometry.
