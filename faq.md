@@ -12,9 +12,11 @@ title: FAQs
 
 The final tables are stored on HeDaM. All fields are available [here](http://hedam.lam.fr/HELP/dataproducts/dmu32/). 
 You need to click on the directory for a given field, then go in the data folder and download the fits file with name of the field. 
-For example the final table for ELAIS-N1 is here:
+For example the final (5Gb) table for ELAIS-N1 is here:
 
 - [http://hedam.lam.fr/HELP/dataproducts/dmu32/dmu32_ELAIS-N1/data/ELAIS-N1_20171016.fits](http://hedam.lam.fr/HELP/dataproducts/dmu32/dmu32_ELAIS-N1/data/ELAIS-N1_20171016.fits)
+
+Due to the size of these full field tables you might prefer to query the HELP VO; [VOX](https://herschel-vos.phys.sussex.ac.uk/).
 
 ### Can I get a table of all the Herschel fluxes?
 
