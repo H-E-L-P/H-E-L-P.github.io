@@ -31,9 +31,10 @@ You could compare the numbers on the ELAIS-N1 field for instance. You would see 
 While you would find many more in the main HELP catalogue [here](ELAIS-N1_20171016.fits).
 This deblending is done with the [XID+](https://github.com/H-E-L-P/XID_plus) code developed for HELP.
 
-### HELP is too complicated. I just want 'the' data.
+### I don't know where to begin. What data is there in HELP.
 
 If you are just getting started you probably want to look at the final merged catalogues in what we call [DMU32](http://hedam.lam.fr/HELP/dataproducts/dmu32/). 
+These contain optical to far infrared photometry, photometric and spectroscopic redshifts and physical properties.
 Once you have found the main list you are interested in you might want to look at the larger data sets associated with your objects such as the full photometric redshift posterior distributions of individual SED fits.
 Please feel free to open a GitHub issue or email us and we will try to help you get the data that you want. 
 The [field overviews](http://hedam.lam.fr/HELP/dataproducts/dmu31/dmu31_Field_overviews/) also provide a good entry point to begin to understand all the HELP data products.
