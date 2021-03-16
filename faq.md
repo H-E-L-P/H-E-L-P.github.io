@@ -6,7 +6,7 @@ slug: faq
 title: FAQs
 ---
 
-# Frequently Asked Questions (FAQs)
+
 
 ### How do I get the main results table for a given field?
 
