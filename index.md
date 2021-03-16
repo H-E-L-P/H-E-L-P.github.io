@@ -16,7 +16,7 @@ agreement no 607254.
 
 <div class="home">
 
-  <h1 class="page-heading">Events</h1>
+  <h1 class="page-heading">News</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
