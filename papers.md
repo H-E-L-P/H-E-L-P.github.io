@@ -8,7 +8,7 @@ title: Papers
 Here is a list of HELP related papers:
 
 - A hyperluminous obscured quasar at a redshift of z ≈ 4.3 [Efstathiou et al., 2021](https://academic.oup.com/mnrasl/article/503/1/L11/6162174?login=true)
-- In pursuit of giants. I. The evolution of the dust-to-stellar mass ratio in distant dusty galaxies [Donevski et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...644A.144D/abstract).
+- In pursuit of giants. I. The evolution of the dust-to-stellar mass ratio in distant dusty galaxies [Donevski et al. 2020](https://ui.adsabs.harvard.edu/abs/2020A%26A...644A.144D/abstract). Press release [here](https://www.sissa.it/news/unveiling-double-origin-cosmic-dust-distant-universe).
 - HELP: a catalogue of 170 million objects, selected at 0.36–4.5 micron, from 1270 square degrees of prime extragalactic fields [Shirley et al., 2019](https://academic.oup.com/mnras/article-abstract/490/1/634/5567201)
 - HELP: modelling the spectral energy distributions of Herschel detected galaxies in the ELAIS N1 field [Malek et al., 2018](https://www.aanda.org/articles/aa/abs/2018/12/aa33131-18/aa33131-18.html)
 - The multiplicity of 250-μm Herschel sources in the COSMOS field
