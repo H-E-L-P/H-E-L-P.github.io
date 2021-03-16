@@ -3,8 +3,10 @@ author: herschellegacyproject
 date: 2021-03-16 12:44:35+00:00
 layout: page
 slug: faq
-title: Frequently Asked Questions (FAQ)
+title: FAQs
 ---
+
+# Frequently Asked Questions (FAQs)
 
 ## How do I get the main results table for a given field?
 
@@ -35,4 +37,15 @@ If you are just getting started you probably want to look at the final merged ca
 Once you have found the main list you are interested in you might want to look at the larger data sets associated with your objects such as the full photometric redshift posterior distributions of individual SED fits.
 Please feel free to open a GitHub issue or email us and we will try to help you get the data that you want. 
 The [field overviews](http://hedam.lam.fr/HELP/dataproducts/dmu31/dmu31_Field_overviews/) also provide a good entry point to begin to understand all the HELP data products.
+
+## I want to cross match my own table to HELP. How do I do that?
+
+The easiest way to conduct cross matches is using the virtual observatory. 
+Here is an example notebook to query the VO using the Python PyVO tool.
+Alternatively you can use Topcat using the same query as for PyVO. 
+The TAP service for conducting such queries is here:
+
+- [https://herschel-vos.phys.sussex.ac.uk/__system__/tap/run/tap](https://herschel-vos.phys.sussex.ac.uk/__system__/tap/run/tap)
+
+Alternatively you can download the tables and cross match your own tables locally using Topcat, Astropy or your preferred tools.
 
